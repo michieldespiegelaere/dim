@@ -1,12 +1,12 @@
 # Delegate Incoming Monitor (DIM)
 A tool to collect data from all blocks forged by a delegate in a certain time period, including the value per block in BTC/USD/EUR at the time of forging. Useful for tax purposes, for example.
 
+A little demonstration video can be found [here](https://www.youtube.com/watch?v=mW54ZHsf-SU).
+
 If you like this software, please consider a donation =] `6725360537423611335L`
 
 ## Usage
 DIM can be run "as-is" in interactive mode, or with optional arguments.
-
-A little demonstration video can be found [here](https://www.youtube.com/watch?v=mW54ZHsf-SU).
 
 #### Interactive Mode
 Open `dim.exe` and follow the instructions.
