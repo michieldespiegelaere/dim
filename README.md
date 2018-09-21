@@ -6,6 +6,8 @@ If you like this software, please consider a donation =] `6725360537423611335L`
 ## Usage
 DIM can be run "as-is" in interactive mode, or with optional arguments.
 
+A little demonstration video can be found [here](https://www.youtube.com/watch?v=mW54ZHsf-SU).
+
 #### Interactive Mode
 Open `dim.exe` and follow the instructions.
 
