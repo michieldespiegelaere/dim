@@ -19,7 +19,8 @@ DIM accepts multiple (optional) arguments. Examples are:
 `dim.exe --network mainnet --address 13943256167405531820L --start 2018/09/01 --end 2018/09/10`
 
 For a complete list, please see:
-``` .\dim.exe -h
+``` 
+.\dim.exe -h
 
 optional arguments:
   -h, --help            show this help message and exit
